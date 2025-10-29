@@ -1,0 +1,17 @@
+Arreglados/
+Informes_sin_Procesar/
+Hallazgos/
+otros_informes/
+costos/
+entradas/
+informes de consumo/
+
+__pycache__
+.env
+venv
+.venv
+*.xlsx
+*.csv
+*.tmp
+*.TMP
+*.json
